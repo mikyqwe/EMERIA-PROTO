@@ -4552,7 +4552,7 @@ VNUM	LOCALE_NAME
 22030	Pergament teleporter
 22040	Pergamentul vieþii
 22050	Pergamentul învierii
-25041	Piatra Magica
+25041	Piatrã Magica
 25042	Piatrã Fermecatã
 25100	Perg. Piatra Spiritului
 25101	Porþie de Prãjiturã
@@ -5119,12 +5119,12 @@ VNUM	LOCALE_NAME
 30090	Glob de gheaþã+
 30091	Simbol de rãzboinic
 30092	Prada sãlbaticilor
-30093	Tolbã norocoasã
-30094	Tolbã norocoasã
+30093	Cufãr Lideri V4
+30094	Cufãr Lideri Medii
 30095	Tolbã norocoasã
 30096	Tolbã norocoasã
-30097	Tolbã norocoasã de bursã
-30098	Tolbã norocoasã
+30097	Cufãr abilitãþi
+30098	Cufãr abilitate
 30099	Tolbã norocoasã
 30100	Tolbã norocoasã
 30101	Verigheta lui Ariyoung
@@ -5202,7 +5202,7 @@ VNUM	LOCALE_NAME
 30173	Blana Mu-Rang
 30174	Labã de Urs
 30175	Harpon de diamant
-30176	Blana de Tigru lucioasa
+30176	Fragment finisaj
 30177	Esenþã de Mosc
 30178	Piatra Hieroglifa
 30179	Cheie Rãsucitã
@@ -5254,8 +5254,8 @@ VNUM	LOCALE_NAME
 30252	Bijuterie Înþelepciune
 30253	Bijuterie Loialitate
 30254	NoNAme
-30265	Bucata de Medalie (1)
-30266	Bucata de Medalie (2)
+30265	Pergament Echipament
+30266	Pergament Echipament Începãtor
 30267	Bucata de Medalie (3)
 30268	Bucata de Medalie (4)
 30269	Bucata de Medalie (5)
@@ -5274,13 +5274,13 @@ VNUM	LOCALE_NAME
 30311	Cheia Suflet Cristalizat
 30312	Totem Schimonosit
 30315	Paine
-30316	Platou Traditional
+30316	Moneda Emeria
 30317	Mancare Traditionala
-30318	Fruct Binecuvantat
+30318	Pergament biolog
 30319	Cap Mumificat
 30320	Cap Mumificat
 30321	Dovleac de Halloween
-30322	Bagheta Magica
+30322	Oul Baronesei
 30323	Tichet Jack O`Lantern
 30324	Cheia Arahnidelor
 30325	Cheia Arahnidelor
@@ -5295,7 +5295,7 @@ VNUM	LOCALE_NAME
 30334	Voucher Coafurã
 30335	Voucher Armã
 30336	Lanternã Dovleac
-30337	Seminþe Dovleac
+30337	Bombã de Yang
 30338	Voucher Coafurã+
 30339	Voucher Armã+
 30341	Inel Focul Dragonului
@@ -5455,14 +5455,14 @@ VNUM	LOCALE_NAME
 31015	Scrisoarea Cpt. Carlig
 31016	Scrisoare Lee Chung
 31017	Scrisoare Sigilata
-31018	Manuscris Carapax
+31018	Fragment temniþã începãtor
 31019	Praf Carapax
 31020	Bulb Floare de Stanca
 31021	NoNAme
-31022	Armura din Zale Oin
+31022	Fragment temniþã avansat
 31023	NoNAme
 31024	Piele Manticore
-31025	NoNAme
+31025	Cap de Diavol
 31026	Armura Crustaceu
 31027	Nisip Fin
 31028	Caramida de Lut
@@ -5480,7 +5480,7 @@ VNUM	LOCALE_NAME
 31040	Medalie de Aur
 31041	Fosila
 31042	Sulita Triton
-31043	Tableta Lemurilor
+31043	Piatrã Elementarã
 31044	NoNAme
 31045	NoNAme
 31046	NoNAme
@@ -5535,7 +5535,7 @@ VNUM	LOCALE_NAME
 31095	NoNAme
 31096	Cherestea Finã
 31097	Rouã En-Tai
-31098	Spiritul Pãmântului
+31098	Pergament Abilitate
 31099	Copac Emerald
 31100	Kit Ajutor
 31101	NoNAme
@@ -7212,10 +7212,10 @@ VNUM	LOCALE_NAME
 50035	Cadou (galben)
 50036	Cadou (violet)
 50037	cufãr hexagonal p.comori
-50038	Certificat de Bronz
-50039	Certificat de Argint
-50040	Certificat de Aur
-50041	Cadou
+50038	Cufãr Dragon de Aur
+50039	Lada Îngerului cu coasã
+50040	Cufãr Baroneasã
+50041	Cufãr Azrael
 50042	Medalia eroului
 50043	Cheie Kelpie
 50050	Medalie de cal
@@ -7253,7 +7253,7 @@ VNUM	LOCALE_NAME
 50087	Prajitura orez Mung
 50088	Prajitura orez pelin
 50089	Piatra Cheie
-50090	Cutie vulpe cu nouã cozi
+50090	Cufãr Perle
 50091	Sushi de peºte auriu
 50092	Sushi de crap
 50093	Sushi de somon
@@ -7281,7 +7281,7 @@ VNUM	LOCALE_NAME
 50118	NoNAme
 50119	NoNAme
 50120	Caseta de fier
-50121	Cutie de fier
+50121	Cufãr Florar
 50122	Lada de fier
 50123	Inghetata
 50124	Casetã putredã din lemn
@@ -7331,7 +7331,7 @@ VNUM	LOCALE_NAME
 50183	Dulciuri
 50184	NoNAme
 50185	NoNAme
-50186	Cufãrul lui Azrael
+50186	Cufãr Azrael
 50187	Cufãr Ucenic I
 50188	Cufãr Ucenic II
 50189	Cufãr Ucenic III
@@ -7569,11 +7569,11 @@ VNUM	LOCALE_NAME
 50662	Beril Obscur
 50663	Beril Fumuriu
 50664	Beril Cenuºiu
-50701	Floare de piersicã
-50702	Floare clopoþel
-50703	Floare Kaki
-50704	Rãdãcinã de Gango
-50705	Liliac
+50701	Floare galbenã
+50702	Floare roºie
+50703	Floare albastrã
+50704	Floare portocalie
+50705	Floare verde
 50706	Ciuperci Tue
 50707	Trandafir alpin
 50708	Dud
@@ -7590,8 +7590,8 @@ VNUM	LOCALE_NAME
 50727	Trandafir alpin
 50728	Dud
 50729	Gura leului
-50730	Scaiete
-50731	Curmal
+50730	Gheara Dragonului de Aur
+50731	Mascã Demon
 50732	Planta Sam-Zi
 50733	Frunzã Flacãrã
 50734	Rãdãcinã Gheaþã
@@ -8533,7 +8533,7 @@ VNUM	LOCALE_NAME
 71126	Lup de Luptã
 71127	Tigrul Furtunii
 71128	Leul Luptãtor
-71129	Ghearele Dragonului
+71129	Balanþa ºi gheara Dragonului
 71130	Permis de Trecere
 71131	Cal Negru
 71132	Cal Negru
@@ -8572,8 +8572,8 @@ VNUM	LOCALE_NAME
 71171	Unicorn
 71172	Vis Urât
 71173	Pergament Teleportare
-71174	Permis de Trecere
-71175	Permis de Trecere
+71174	Pergament Razador
+71175	Pergament Nemere
 71176	Pantera Neagra
 71177	Leopard
 71178	Enciclopedie Lunarã (S)
