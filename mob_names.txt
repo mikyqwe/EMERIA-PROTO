@@ -2304,7 +2304,7 @@ VNUM	LOCALE_NAME
 20403	Amarok
 20404	Nagual
 20405	Waheela
-20406	NoNAme
+20406	Theowahdan
 20407	Fenrir
 20408	Gardianul Templului
 20409	Gardianul Pãdurii
