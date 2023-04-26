@@ -5286,7 +5286,7 @@ VNUM	LOCALE_NAME
 30325	Cheia Arahnidelor
 30326	Otrava Reginei Paianjen
 30327	Fluierul Arahnidelor
-30328	Bucata tichet misterios
+30328	Foaie neînsufleþitã
 30329	Roata Zimtata de Aur
 30330	Piatra Maat
 30331	Cheie de Gheata
@@ -7282,8 +7282,7 @@ VNUM	LOCALE_NAME
 50119	NoNAme
 50120	Caseta de fier
 50121	Cufãr Florar
-50122	Tichet Misterios
-50123	Inghetata
+50122	Carte neînsufleþitã
 50124	Casetã putredã din lemn
 50125	Cufãr Misterios
 50126	Cufãr Misterios
