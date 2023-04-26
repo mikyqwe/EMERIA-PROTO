@@ -2091,7 +2091,7 @@ VNUM	LOCALE_NAME
 20083	Jegal-Tunseok
 20084	Biologul Chaegirab
 20085	Jimjunja
-20086	Handu-Up
+20086	Magazin Emeria
 20087	Wonda-Rim
 20088	Chuk-Sal
 20089	Pung-Ho
