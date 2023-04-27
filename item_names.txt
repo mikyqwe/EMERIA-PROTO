@@ -7282,7 +7282,8 @@ VNUM	LOCALE_NAME
 50119	NoNAme
 50120	Caseta de fier
 50121	Cufãr Florar
-50122	Carte neînsufleþitã
+50122	Lada de fier
+50123	Inghetata
 50124	Casetã putredã din lemn
 50125	Cufãr Misterios
 50126	Cufãr Misterios

@@ -2091,7 +2091,7 @@ VNUM	LOCALE_NAME
 20083	Jegal-Tunseok
 20084	Biologul Chaegirab
 20085	Jimjunja
-20086	Magazin Emeria
+20086	Handu-Up
 20087	Wonda-Rim
 20088	Chuk-Sal
 20089	Pung-Ho
@@ -2304,7 +2304,7 @@ VNUM	LOCALE_NAME
 20403	Amarok
 20404	Nagual
 20405	Waheela
-20406	Theowahdan
+20406	NoNAme
 20407	Fenrir
 20408	Gardianul Templului
 20409	Gardianul Pãdurii
