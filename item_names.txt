@@ -6665,6 +6665,12 @@ VNUM	LOCALE_NAME
 41811	Uniformã Albastrã+ (m)
 41812	Uniformã Albã+ (f)
 41813	Uniformã Albastrã+ (f)
+41814	Costum Shop (m)
+41815	Costum Shop 2
+41816	Costum Shop (f)
+45554	Freza Shop (m)
+45555	Freza Shop 2
+45556	Freza Shop (f)
 45001	Urechi de Iepuras (maro)
 45002	Urechi de Iepure (maro)
 45003	Bandana (m)
