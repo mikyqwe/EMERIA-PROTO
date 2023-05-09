@@ -8529,7 +8529,7 @@ VNUM	LOCALE_NAME
 71122	NoNAme
 71123	Balanþa Dragonului
 71124	Leul Alb
-71125	Mistreþ Sãlbatic Luptã
+71125	Mistreþ Sãlbatic de Luptã
 71126	Lup de Luptã
 71127	Tigrul Furtunii
 71128	Leul Luptãtor
