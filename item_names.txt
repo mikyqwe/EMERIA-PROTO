@@ -8553,9 +8553,9 @@ VNUM	LOCALE_NAME
 71144	Cufãr de Crãciun
 71145	Amuleta Dragostei Eterne
 71146	Cutia lui Cupidon(roz)
-71147	Cutia lui Cupidon(bleu)
-71148	Inel Vointa Puternica
-71149	Inel Putere Mortala
+71147	Inel Sefi3
+71148	Inel Sefi2
+71149	Inel Sefi
 71150	Ou Magic
 71151	Magie Verde
 71152	Putere Verde
