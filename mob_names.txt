@@ -2569,8 +2569,8 @@ VNUM	LOCALE_NAME
 34061	Valentinia
 34062	Lanternã Moon (Orange)
 34063	Lanternã Moon (Albastrã)
-34064	Meley Mic
-34065	Meley Mic
+34064	Pet Start
+34065	Pet Shop
 34066	Bonsai
 34067	Ms Jiangshi+
 34068	Mr Jiangshi+

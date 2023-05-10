@@ -7985,6 +7985,8 @@ VNUM	LOCALE_NAME
 53024	Pantera Pui (7 zile)
 53025	Leopard Pui (7 zile)
 53026	Pepita
+53027	Dragon Start
+53028	Dragon Shop
 53218	Panterã Pui
 53219	Pantera Pui (120 zile)
 53220	Leopard Pui
