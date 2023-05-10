@@ -8547,8 +8547,8 @@ VNUM	LOCALE_NAME
 71138	Tigru Regal (roºu)
 71139	Tigru Regal (aur)
 71140	Tigru Regal (verde)
-71141	Tigru Regal (gri)
-71142	Tigru Regal (alb)
+71141	Inelul Bucuriei3
+71142	Inelul Bucuriei2
 71143	Inelul Bucuriei
 71144	Cufãr de Crãciun
 71145	Amuleta Dragostei Eterne
