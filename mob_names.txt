@@ -2695,4 +2695,4 @@ VNUM	LOCALE_NAME
 60002	Muianu
 60003	Theowahdan
 34079	Pet Start
-
+34650	Manechin
