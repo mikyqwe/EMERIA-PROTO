@@ -5877,12 +5877,12 @@ VNUM	LOCALE_NAME
 40112	Clopot cu Dinþi+
 40113	Evantai cu Dinþi+
 40114	Ghearã cu Dinþi+
-40115	Sabie Acadea
-40116	Pumnal Acadea
-40117	Arc Acadea
-40118	Glaive Acadea
-40119	Clopot Acadea
-40120	Evantai Acadea
+40115	Sabie Shop
+40116	Pumnal Shop
+40117	Arc Shop
+40118	Glaive Shop
+40119	Clopot Shop
+40120	Evantai Shop
 40121	Gheara Rudlof
 40122	Sabie Acadea+
 40123	Pumnal Acadea+
@@ -9597,27 +9597,27 @@ VNUM	LOCALE_NAME
 850823	Yellow Dew (B)
 850824	Green Dew (B)
 850825	Blue Dew (B)
-41814	Costum Shop (m)
-41815	Costum Shop 2 (m)
-41816	Costum Shop (f)
-41817	Costum Shop 3 (m)
-41818	Costum Shop 4 (m)
-45554	Freza Shop (m)
-45555	Freza Shop 2 (m)
-45556	Freza Shop (f)
-45557	Freza Shop 3 (m)
-45558	Freza Shop 4 (m)
-41819	Costum Shop 2 (f)
-41820	Costum Shop 3 (f)
-41821	Costum Shop 4 (f)
-45559	Freza Shop 2 (f)
-45560	Freza Shop 3 (f)
-45561	Freza Shop 4 (f)
-45562	Freza Shop 5 (m)
-45563	Freza Shop 6 (m)
-41822	Costum Shop 5 (m)
-41823	Costum Shop 6 (m)
-45564	Freza Shop 5 (f)
-45565	Freza Shop 6 (f)
-41824	Costum Shop 5 (f)
-41825	Costum Shop 6 (f)
+41814	Costum Oriental (m)
+41815	Costum Dragon Auriu (m)
+41816	Costum Oriental (f)
+41817	Costum Shop (m)
+41818	Costum Start (m)
+45554	Freza Oriental (m)
+45555	Freza Dragon Auriu (m)
+45556	Freza Oriental (f)
+45557	Freza Shop (m)
+45558	Freza Start (m)
+41819	Costum Dragon Auriu (f)
+41820	Costum Shop (f)
+41821	Costum Start (f)
+45559	Freza Dragon Auriu (f)
+45560	Freza Shop (f)
+45561	Freza Start (f)
+45562	Freza Bandit negru (m)
+45563	Freza Bandit alb (m)
+41822	Costum Bandit negru (m)
+41823	Costum Bandit alb (m)
+45564	Freza Bandit negru (f)
+45565	Freza Bandit alb (f)
+41824	Costum Bandit negru (f)
+41825	Costum Bandit alb (f)
