@@ -5029,9 +5029,9 @@ VNUM	LOCALE_NAME
 30000	Orz
 30001	Scrisoare
 30002	Carnati Prajiti
-30003	Rât de porc
-30004	Dinte de mistreþ
-30005	Bucatã armurã stricatã
+30003	Cornul lui Razador
+30004	Nestemata de Foc
+30005	Cornul lui Nemere
 30006	Dinte de Ork
 30007	Amuletã de Ork
 30008	Îndrumator de esotericã
@@ -5043,16 +5043,16 @@ VNUM	LOCALE_NAME
 30014	Blanã de Yeti
 30015	Suvenirul Demonului
 30016	Piatrã preþioasa demon
-30017	Ac Decorativ de Par
-30018	Banderolã roºie
+30017	Nestemata de Gheata
+30018	Premium BattlePass
 30019	Coama de Foc
 30020	Sâmbure de piersicã
 30021	Buc. de piatrã preþioasã
-30022	Coadã de ºarpe
-30023	Blanã albã de tigru
-30024	Coadã de cal
-30025	Tolba Otrava de Paianjen
-30026	Intestin de lup
+30022	Diadema Ascensiunii
+30023	Inelul Liderilor
+30024	Cartea Antica
+30025	Pergament Conducere
+30026	Pergament Transmutatie
 30027	Blanã de lup
 30028	Ghearã de lup
 30029	Ficat de lup
@@ -5122,7 +5122,7 @@ VNUM	LOCALE_NAME
 30093	Cufãr Lideri V4
 30094	Cufãr Lideri Medii
 30095	Tolbã norocoasã
-30096	Tolbã norocoasã
+30096	Cufar cu Carti
 30097	Cufãr abilitãþi
 30098	Cufãr abilitate
 30099	Tolbã norocoasã
@@ -5202,7 +5202,7 @@ VNUM	LOCALE_NAME
 30173	Blana Mu-Rang
 30174	Labã de Urs
 30175	Harpon de diamant
-30176	Fragment finisaj
+30176	Piatra Nefinisata
 30177	Esenþã de Mosc
 30178	Piatra Hieroglifa
 30179	Cheie Rãsucitã
@@ -5254,8 +5254,8 @@ VNUM	LOCALE_NAME
 30252	Bijuterie Înþelepciune
 30253	Bijuterie Loialitate
 30254	NoNAme
-30265	Pergament Echipament
-30266	Pergament Echipament Începãtor
+30265	Pergament Echipament (Incepator)
+30266	Pergament Echipament (Avansat)
 30267	Bucata de Medalie (3)
 30268	Bucata de Medalie (4)
 30269	Bucata de Medalie (5)
@@ -5266,7 +5266,7 @@ VNUM	LOCALE_NAME
 30282	Ciob Relicvã Sura
 30283	Ciob Relicvã ªaman
 30284	Ciob Relicvã Lycan
-30300	Ladã veche necunoscutã
+30300	Foaie Neinsufletita
 30301	Hartã pt. turnul Sa-Gui
 30302	Hartã pentru peºtera Zin
 30303	Cheie Bong-In
@@ -5274,7 +5274,7 @@ VNUM	LOCALE_NAME
 30311	Cheia Suflet Cristalizat
 30312	Totem Schimonosit
 30315	Paine
-30316	Moneda Emeria
+30316	Cristal Emeria
 30317	Mancare Traditionala
 30318	Pergament biolog
 30319	Cap Mumificat
@@ -5455,19 +5455,19 @@ VNUM	LOCALE_NAME
 31015	Scrisoarea Cpt. Carlig
 31016	Scrisoare Lee Chung
 31017	Scrisoare Sigilata
-31018	Fragment temniþã începãtor
+31018	Pergamentul Eroilor (Incepator)
 31019	Praf Carapax
 31020	Bulb Floare de Stanca
-31021	NoNAme
-31022	Fragment temniþã avansat
-31023	NoNAme
-31024	Piele Manticore
+31021	Eterna Confruntare (1)
+31022	Pergamentul Eroilor (Avansat)
+31023	Pergamentul Eroilor (Legendar)
+31024	Esenta Luptatorului (2)
 31025	Cap de Diavol
-31026	Armura Crustaceu
+31026	Forta Vanatorului (3)
 31027	Nisip Fin
-31028	Caramida de Lut
-31029	Lumina Interioara
-31030	Lumina Interioara
+31028	Sufletul Invincibil (4)
+31029	Blestemul Bataliilor (5)
+31030	Rasplata Destinului (6)
 31031	Esenta Eternitatii
 31032	Perla Leviatanului
 31033	Mantia Conducatorului
@@ -5480,7 +5480,7 @@ VNUM	LOCALE_NAME
 31040	Medalie de Aur
 31041	Fosila
 31042	Sulita Triton
-31043	Piatrã Elementarã
+31043	Piatra Elementala
 31044	NoNAme
 31045	NoNAme
 31046	NoNAme
@@ -5535,7 +5535,7 @@ VNUM	LOCALE_NAME
 31095	NoNAme
 31096	Cherestea Finã
 31097	Rouã En-Tai
-31098	Pergament Abilitate
+31098	Floarea Cunoasterii
 31099	Copac Emerald
 31100	Kit Ajutor
 31101	NoNAme
@@ -5633,7 +5633,7 @@ VNUM	LOCALE_NAME
 31220	Mesaj
 31221	Nucleu Spirit Purificat
 31222	Vatirul Vulturului
-31223	Compas Contaminare
+31223	Lada Puterii
 31224	Foi de Oþel Bijuterii
 31225	Piatrã Runicã
 31226	Nucleu Poluat
@@ -5789,10 +5789,10 @@ VNUM	LOCALE_NAME
 39045	Cufãrul Lycanilor (L)
 39046	Certificat Anulare+
 39047	Cufãr Rãzboinic Corp (S)
-39048	Cufãr Rãzboinic Corp (L)
-39049	Cufãr Rãzboinic Ment (S)
-39050	Cufãr Rãzboinic Ment (L)
-39051	Cufãr Ninja Sabie (S)
+39048	Manual Razboinic
+39049	Manual Sura
+39050	Manual Ninja
+39051	Manual Saman
 39052	Cufãr Ninja Sabie (L)
 39053	Cufãr Ninja Arc (S)
 39054	Cufãr Ninja Arc (L)
@@ -7197,7 +7197,7 @@ VNUM	LOCALE_NAME
 50020	Plãcintã de fasole
 50021	Plãcintã de zahãr
 50022	Plãcintã de fructe
-50023	Tolbã de bani
+50023	Pergament Camera Comorilor
 50024	Trandafir
 50025	Ciocolata
 50026	Monede
@@ -7275,14 +7275,14 @@ VNUM	LOCALE_NAME
 50112	Cutie Vernil de Ebonita
 50113	Cutie Verde de Ebonita
 50114	Cutie Albastra Ebonita
-50115	Cutie Visinie de Ebonita
+50115	Cufar Inel XP
 50116	Bon schimb de arme
 50117	Cufãr de bijuterii
 50118	NoNAme
 50119	NoNAme
 50120	Caseta de fier
-50121	Cufãr Florar
-50122	Lada de fier
+50121	Cufãr Floral
+50122	Carte Neinsufletita
 50123	Inghetata
 50124	Casetã putredã din lemn
 50125	Cufãr Misterios
@@ -7333,7 +7333,7 @@ VNUM	LOCALE_NAME
 50185	NoNAme
 50186	Cufãr Azrael
 50187	Cufãr Ucenic I
-50188	Cufãr Ucenic II
+50188	Cufar Turnul Demonilor
 50189	Cufãr Ucenic III
 50190	Cufãr Expert I
 50191	Cufãr Expert II
@@ -7389,7 +7389,7 @@ VNUM	LOCALE_NAME
 50289	Reîncarnare
 50290	Cufãr Lemn Zonã Rãzboi
 50294	Cufãr Regina Meley
-50296	Cutia Respingerilor
+50296	Cufar Manusa Talharului
 50297	Cutia Ajutoarelor
 50298	Lada Respingerilor
 50299	Lada Ajutoarelor
@@ -7578,8 +7578,8 @@ VNUM	LOCALE_NAME
 50707	Trandafir alpin
 50708	Dud
 50709	Gura leului
-50710	Scaiete
-50711	Curmal
+50710	Gheara Dragon de Aur
+50711	Masca Demon
 50712	Planta Sam-Zi
 50721	Floare de piersic
 50722	Floare clopoþel
@@ -8082,7 +8082,7 @@ VNUM	LOCALE_NAME
 53313	Leonidas Alb (Pradã)
 53314	Astrabell (Pradã)
 53315	Phoenix de Foc (Pradã)
-53501	Cuºcã Phoenix de Foc
+53501	Iarba Maimutei
 53502	Cufãr Ren Tânãr
 53503	Cuºcã Phoenix de Gheaþã
 53504	NoNAme
@@ -8535,7 +8535,7 @@ VNUM	LOCALE_NAME
 71126	Lup de Luptã
 71127	Tigrul Furtunii
 71128	Leul Luptãtor
-71129	Balanþa ºi gheara Dragonului
+71129	Gheara si Balanta Dragon
 71130	Permis de Trecere
 71131	Cal Negru
 71132	Cal Negru
