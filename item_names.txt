@@ -9777,8 +9777,8 @@ VNUM	LOCALE_NAME
 71164	Comet
 71165	Predator Polar
 71166	Panda Blindat
-71171	Unicorn
-71172	Vis Urât
+71171	Manny Argintiu
+71172	Manny Auriu
 71173	Pergament Teleportare
 71174	Pergament Razador
 71175	Pergament Nemere
