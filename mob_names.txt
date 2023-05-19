@@ -2696,3 +2696,16 @@ VNUM	LOCALE_NAME
 60003	Theowahdan
 34079	Pet Start
 34650	Manechin
+60004	goods
+60005	The_Asek_Studio_Npc_3
+60006	The_Asek_Studio_Npc_4
+60007	The_Asek_Studio_Npc_5
+60008	The_Asek_Studio_Npc_6
+60009	The_Asek_Studio_Npc_7
+60010	The_Asek_Studio_Npc_8
+60011	sinseon
+22222	Magazin Emeria
+22223	Luptator Conducere
+60014	Drayen_Npc_17
+60015	Drayen_Npc_22
+60016	pewi_change_old
