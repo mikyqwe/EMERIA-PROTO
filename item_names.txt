@@ -10838,3 +10838,7 @@ VNUM	LOCALE_NAME
 45566	Freza GOS (m)
 41827	Costum GOS (f)
 45567	Freza GOS (f)
+41828	Costum HFM (m)
+45568	Freza HFM (m)
+41829	Costum HFM (f)
+45569	Freza HFM (f)
