@@ -7111,6 +7111,13 @@ VNUM	LOCALE_NAME
 40140	Clopot Aquarian+
 40141	Evantai Aquarian+
 40142	Gheare Aquarian+
+40143	Glaive GOS
+40144	Sabie GOS
+40145	Pumnale GOS
+40146	Arc GOS
+40147	Clopot GOS
+40148	Evantai GOS
+40149	Lama GOS
 41000	Loc Accesoriu Armã
 41001	Costum de Iepure (maro)
 41002	Costum de Iepuras (maro)
@@ -10827,3 +10834,7 @@ VNUM	LOCALE_NAME
 45565	Freza Bandit alb (f)
 41824	Costum Bandit negru (f)
 41825	Costum Bandit alb (f)
+41826	Costum GOS (m)
+45566	Freza GOS (m)
+41827	Costum GOS (f)
+45567	Freza GOS (f)
