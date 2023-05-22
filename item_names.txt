@@ -10525,6 +10525,22 @@ VNUM	LOCALE_NAME
 86062	Eºarfã Inimã (finã)
 86063	Eºarfã Inimã (nobilã)
 86064	Eºarfã Inimã (avansatã)
+86065	Eºarfã Lord Verde (normala)
+86066	Eºarfã Lord Verde (fina)
+86067	Eºarfã Lord Verde (nobila)
+86068	Eºarfã Lord Verde (avansata)
+86069	Eºarfã Lord Albastrã (normala)
+86070	Eºarfã Lord Albastrã (fina)
+86071	Eºarfã Lord Albastrã (nobila)
+86072	Eºarfã Lord Albastrã (avansata)
+86073	Eºarfã Lord Galbenã (normala)
+86074	Eºarfã Lord Galbenã (fina)
+86075	Eºarfã Lord Galbenã (nobila)
+86076	Eºarfã Lord Galbenã (avansata)
+86077	Eºarfã Lord Gri (normala)
+86078	Eºarfã Lord Gri (fina)
+86079	Eºarfã Lord Gri (nobila)
+86080	Eºarfã Lord Gri (avansata)
 90000	Certificat Anulare
 90001	Sticla goala de apa
 90002	Sticla de Apa
@@ -10842,3 +10858,4 @@ VNUM	LOCALE_NAME
 45568	Freza HFM (m)
 41829	Costum HFM (f)
 45569	Freza HFM (f)
+85029	Sashss
