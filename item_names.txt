@@ -6460,8 +6460,8 @@ VNUM	LOCALE_NAME
 30252	Bijuterie Înþelepciune
 30253	Bijuterie Loialitate
 30254	NoNAme
-30265	Pergament Echipament (Incepator)
-30266	Pergament Echipament (Avansat)
+30265	Pergament Echipament (Avansat)
+30266	Pergament Echipament (Incepator)
 30267	Bucata de Medalie (3)
 30268	Bucata de Medalie (4)
 30269	Bucata de Medalie (5)
